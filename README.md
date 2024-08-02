@@ -6,7 +6,7 @@ $ git clone https://github.com/faishaaalj/shopee_intern_test.git
 - Go to the directory
 - Install Dependencies
 ```bash
-$ npm i http-server
+$ npm i
 ```
 - Run the server on terminal
 ```bash
